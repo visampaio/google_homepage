@@ -1,0 +1,46 @@
+main {
+  position:absolute;
+  top: 40%;
+  width: 99%;
+  text-align: center;
+}
+
+a {
+  text-decoration: none;
+}
+
+input {
+  width: 500px;
+  height: 30px;
+}
+
+/* Nav bar styles*/
+
+nav {
+  top: 0;
+  width: 99%;
+  text-align: right;
+}
+
+nav a, nav button {
+  margin: 0 5px;
+}
+
+/* Footer styles */
+
+footer {
+  position: absolute;
+  bottom: 0;
+  width: 99%;
+  height: 5%;
+  background-color: lightgrey;
+}
+
+footer a {
+  margin: 0 5px;
+}
+
+.rightfoot {
+  float: right;
+  margin: 0 6px;
+}
